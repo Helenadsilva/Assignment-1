@@ -49,6 +49,7 @@ input {
 
 button{box-align:left;}
 button{display: inline-block;}
+button{margin-left: -440px;}
 footer{font-family: Arial, Helvetica, sans-serif;}
 footer{text-align: left;}
 footer{float: left ;}
